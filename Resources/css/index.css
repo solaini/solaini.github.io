@@ -1,0 +1,19 @@
+html {
+    font-family: helvetica;
+}
+p {
+    font-size: 16px;
+}
+body {
+    background-color: navajowhite;
+    background-image: url("/Users/alexandercoffin/Documents/Web Development/Startup blog/Resources/photos/homebackground.jpg");
+}
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.photo{
+    background-color: darkblue
+    opacity: .5;
+}

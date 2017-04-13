@@ -2,17 +2,19 @@ p {
     font-size: 10px;
     font-weight: normal;
 }
+nav {
+     background-image: url("../Resources/photos/homebackground.jpg");
+}
 body {
     font-family: helvetica;
     background-color: navajowhite;
-    background-image: url("../Resources/photos/homebackground.jpg");
 }
 h1 {
     color: white;
     background-color: black;
     text-align: center;
 }
-.photo{
+img{
     background-color: darkblue
     opacity: .5;
 }

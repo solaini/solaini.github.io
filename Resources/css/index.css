@@ -1,10 +1,9 @@
-html {
-    font-family: helvetica;
-}
 p {
-    font-size: 16px;
+    font-size: 10px;
+    font-weight: normal;
 }
 body {
+    font-family: helvetica;
     background-color: navajowhite;
     background-image: url("../Resources/photos/homebackground.jpg");
 }

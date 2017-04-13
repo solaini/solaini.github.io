@@ -6,7 +6,7 @@ p {
 }
 body {
     background-color: navajowhite;
-    background-image: url("/Users/alexandercoffin/Documents/Web Development/Startup blog/Resources/photos/homebackground.jpg");
+    background-image: url("../Resources/photos/homebackground.jpg");
 }
 h1 {
     color: white;

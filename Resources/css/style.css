@@ -6,14 +6,14 @@ p {
 html {
      background-image: url("../../resources/photos/homebackground.jpg");
      background-repeat: no-repeat;
+     background-size: cover;
 }
 body {
     font-family: helvetica;
-    background-color: navajowhite;
+    <!--background-color: navajowhite; -->
 }
 h1 {
     color: white;
-    background-color: Gray;
     text-align: center;
 }
 img {

@@ -3,7 +3,7 @@ p {
     font-weight: normal;
     text-align: center;
 }
-body {
+html {
      background-image: url("../../resources/photos/homebackground.jpg");
      background-repeat: no-repeat;
      background-size: cover;
@@ -17,7 +17,4 @@ h1 {
 img {
     background-color: darkblue;
     opacity: .5;
-}
-iframe {
-    align-content: center;
 }

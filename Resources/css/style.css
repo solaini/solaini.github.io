@@ -3,8 +3,8 @@ p {
     font-weight: normal;
     text-align: center;
 }
-nav {
-     background-image: url("../photos/homebackground.jpg");
+html {
+     background-image: url("../../resources/photos/homebackground.jpg");
      background-repeat: no-repeat;
 }
 body {

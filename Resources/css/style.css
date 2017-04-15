@@ -4,7 +4,8 @@ p {
     text-align: center;
 }
 nav {
-     background-image: url("../Resources/photos/homebackground.jpg");
+     background-image: url("../photos/homebackground.jpg");
+     background-repeat: no-repeat;
 }
 body {
     font-family: helvetica;

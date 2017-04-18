@@ -46,7 +46,4 @@ ul {
 .funthings{
     border: 5px outset red;
     padding: 0;
-    display: block;
-    position: fixed;
-
 }

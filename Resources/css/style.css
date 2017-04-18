@@ -8,17 +8,35 @@ body {
      background-repeat: no-repeat;
      background-size: cover;
      font-family: Arial, Helvetica, sans-serif;
+     top: 20px;
 }
 
 .funthings {
     text-align: center;
+    top: 10px;
 }
+div {
+    top: 30px;
+    position: static;
 
+}
 h1 {
     color: white;
-    text-align: center;
+    text-align: center; 
+    border: 10px solid black;
 }
 img {
     background-color: darkblue;
     opacity: .5;
+    top: 10px;
+    position: absolute;
 }
+nav .heads {
+    Position: fixed;
+    width: 100%;
+    z-index: 2;
+    top: 10px;
+}
+ul {
+    top: 20px;
+}   

@@ -37,8 +37,9 @@ img {
     top: 10px;
 }
 header {
-    background-color: blue;
+    background-color: black;
     border: 5px solid black;
+    color: navajowhite;
     width: 100%;
     position: fixed;
     top: 0px;

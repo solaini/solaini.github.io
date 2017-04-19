@@ -2,7 +2,7 @@ p {
     font-size: 16px;
     font-weight: normal;
     text-align: center;
-
+    margin: 5px auto;
 }
 body {
      background-image: url("../photos/homebackground.jpg");
@@ -14,36 +14,47 @@ body {
 .funthings {
     text-align: center;
     top: 10px;
+    margin: 0 5px;
 }
 div {
-    top: 30px;
-    position: static;
     border: 10px 
-
+}
+a{
+    color: black;
 }
 h1 {
     color: white;
     text-align: center; 
-    border-bottom: 10px solid black;
+    height: 10px;
+    width: 100%;
+    padding: 30px;
+    margin: 30px 10px 0 0;
+    border-bottom: 5px solid black;
 }
 img {
     background-color: darkblue;
     opacity: .5;
     top: 10px;
-    position: absolute;
 }
-nav .heads {
-    background-color: black;
-    border: 20px solid black;
-    Position: fixed;
+header {
+    background-color: blue;
+    border: 5px solid black;
     width: 100%;
-    z-index: 2;
-    top: 10px;
+    position: fixed;
+    top: 0px;
+}
+nav li{
+
 }
 ul {
-    top: 20px;
+    
 }   
 .funthings{
+    margin: 10px auto;
     border: 5px outset red;
     padding: 0;
+}
+.startupstuff {
+    display: inline-block;
+
 }
